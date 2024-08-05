@@ -4,7 +4,7 @@ import MovieCard from './MovieCard';
 
 import './App.css';
 import SearchIcon from './search.svg'
-const API_URL = 'http://www.omdbapi.com?apikey=f4b96c5d';
+const API_URL = 'https://www.omdbapi.com?apikey=f4b96c5d';
 
 const movie1 = {
     "Title": "Blade Runner 2049",
